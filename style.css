@@ -1,0 +1,97 @@
+.taille {
+    width: 21cm;
+    height: 29.7cm;
+    margin: 0px;
+    margin-left: 5px;
+    font-size: 13.8px;
+}
+
+
+h1 {
+    margin: 0px;
+}
+
+h2 {
+    color: rgb(63, 63, 63);
+    margin: 0px;
+}
+
+h3 {
+    margin-top: 37px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: rgb(63, 63, 63);
+    font-size: 20px;
+}
+h4 {
+    margin-bottom: 0px;
+}
+
+.identite{
+    border-radius:50%;
+    width:180px;
+    height:180px;
+}
+
+.block {
+    margin-block-start: 0.5em;
+}
+
+.entreprise {
+    color: #9400D3;
+}
+
+.date {
+    color: grey;
+}
+
+td {
+    vertical-align: top;
+}
+
+.description {
+    color: rgb(22, 47, 209);
+    font-weight: bold;
+}
+
+.colonne {
+    width: 25%;
+    background-color: rgb(202, 202, 202);
+    padding-top: 0px;
+    padding-bottom: 0px; 
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#colonne1 {
+    padding: 10px;
+}
+
+
+.tab{
+    margin-left:15px;
+    display: inline-block;
+}
+
+.cartouche {
+    font-size: 12pt;
+    display: table;
+    color: black;
+    margin: 0.3em 0;
+    padding: 0.1em 0.6em;
+    border: 1px solid #adb3b9;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(12, 13, 14, 0.2), 0 0 0 2px rgba(255, 255, 255, 0.63) inset;
+    white-space: nowrap;
+}
+
+li {
+    list-style-type: none;
+}
+ul{
+    padding-inline-start: 15px;
+}
+
+.interet{
+    margin-top: 30px;
+}
